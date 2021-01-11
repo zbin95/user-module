@@ -1,6 +1,7 @@
 {
     "name": "nwidart/user",
     "description": "",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Nicolas Widart",
